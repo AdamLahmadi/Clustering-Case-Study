@@ -8,13 +8,13 @@ In this case study we will analyse extensive customer data and use K-Means clust
 
 The following customer clusters were created:
 
-First Customers cluster (Transactors): Customers who pay least amount of interest charges and careful with their money, Cluster with lowest balance ($104) and cash advance (\$303), Percentage of full payment = 23%.
+  First Customers cluster (Transactors): Customers who pay least amount of interest charges and careful with their money, Cluster with lowest balance ($104) and cash advance (\$303), Percentage of full payment = 23%.
 
-Second customers cluster (revolvers): Customers who use credit card as a loan (most lucrative sector): highest balance ($5000) and cash advance (~$5000), low purchase frequency, high cash advance frequency (0.5), high cash advance transactions (16) and low percentage of full payment (3%).
+  Second customers cluster (revolvers): Customers who use credit card as a loan (most lucrative sector): highest balance ($5000) and cash advance (~$5000), low purchase frequency, high cash advance frequency (0.5), high cash advance transactions (16) and low percentage of full payment (3%).
 
-Third customer cluster (VIP/Prime): Customers with high credit limit $16K and highest percentage of full payment, target for increase credit limit and increase spending habits.
+  Third customer cluster (VIP/Prime): Customers with high credit limit $16K and highest percentage of full payment, target for increase credit limit and increase spending    habits.
 
-Fourth customer cluster (low tenure): Customers with low tenure (7 years), low balance
+  Fourth customer cluster (low tenure): Customers with low tenure (7 years), low balance
 
 # Our Dataset
 
